@@ -43,4 +43,4 @@ if (message.content.startsWith(adminprefix + 'sa')) {
 
 
 
-client.login("NTE5MTUzNDUyNDAwNjQwMDAw.DubLbA.I7DjFSRB4TIx9eXPLnh0QTchVms");
+client.login("NDY5MTAyNzg0Nzg5MzQ4MzYy.Dt2Yyw.MrEvmniRKO9yqaFSbPr2WSgXTXM");
